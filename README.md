@@ -1,6 +1,8 @@
 # lab_itt626
 
-A new Flutter project.
+MUHAMMAD NAZREEN EIDRI MUDA BIN MUDA ALANG
+RCDCS2515A
+2024988385
 
 ## Getting Started
 
